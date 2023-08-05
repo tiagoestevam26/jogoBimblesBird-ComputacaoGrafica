@@ -1,0 +1,47 @@
+# Readme.txt
+
+## Grupo:
+- Guilherme Yago (Matrícula: 12343)
+- Tiago Estevam (Matrícula: 34334)
+- Tiago Dutra (Matrícula: 24334)
+- RuberPaulo (Matrícula: 343534)
+
+## Instruções de compilação e execução:
+
+1. Clone o repositório do jogo Bimbles Bird para o seu sistema local.
+2. Certifique-se de que as bibliotecas GLEW, SOIL e FreeGLUT estão instaladas em seu sistema Linux baseado em Debian. Caso não estejam instaladas, siga as instruções abaixo:
+
+   - Para instalar a biblioteca GLEW, execute o seguinte comando no terminal:
+     ```
+     sudo apt-get install libglew-dev
+     ```
+
+   - Para instalar a biblioteca SOIL, execute o seguinte comando no terminal:
+     ```
+     sudo apt-get install libsoil-dev
+     ```
+
+   - Para instalar a biblioteca FreeGLUT, execute o seguinte comando no terminal:
+     ```
+     sudo apt-get install freeglut3-dev
+     ```
+
+3. Navegue até o diretório raiz do projeto Bimbles Bird.
+
+4.
+   - Para compilar o programa, execute o seguinte comando:
+     ```
+     make compilar
+     ```
+   - Para executar o jogo, utilize o seguinte comando:
+     ```
+     make executar
+     ```
+
+## Instruções de jogo:
+
+Bem-vindo ao jogo Bimbles Bird! Controle um pássaro com as teclas W, S, A e D para evitar colisões com bolinhas em três desafiantes fases. As bolinhas estão por toda parte, seguindo caminhos aleatórios e determinadas a te pegar. Lembre-se de manter o pássaro em movimento, pois ficar parado resultará em uma queda desastrosa. Domine as habilidades de desviar e desafie seus reflexos nessa aventura 2D cheia de ação.
+
+## Link da apresentação da gameplay:
+
+[YouTube - Apresentação da Gameplay](https://youtu.be/JCJEiNGfWKQ)
